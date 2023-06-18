@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: red;
+}
+
+.shadow-sm img {
+    max-height: 200px;
+    height: 100%;
+}
+
+
+.img-more {
+    min-height: 100%!important;
+}
+
+.description-more {
+    padding-left: 20px!important;
+}
